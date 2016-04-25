@@ -1,0 +1,17 @@
+{
+  "name": "learning-bass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basscss": "^8.0.1"
+  },
+  "devDependencies": {
+    "basscss": "^8.0.1"
+  }
+}
